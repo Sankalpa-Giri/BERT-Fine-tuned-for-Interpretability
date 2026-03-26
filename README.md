@@ -20,10 +20,10 @@ Make BERT's predictions explainable by:
 ## Project Structure
 ```
 bert_interpretability/
-├── BERT_fine-tuned.py            ← Full pipeline (train → interpret → visualize)
-├── requirements.txt   ← Python dependencies
-├── README.md          ← This file
-└── outputs/           ← Generated heatmaps and plots (auto-created)
+├── BERT_fine-tuned.py   ← Full pipeline (train → interpret → visualize)
+├── requirements.txt     ← Python dependencies
+├── README.md            ← This file
+└── outputs/             ← Generated heatmaps and plots (auto-created)
 ```
 
 ---
