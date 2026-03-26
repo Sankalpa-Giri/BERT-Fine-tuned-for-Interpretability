@@ -20,10 +20,10 @@ Make BERT's predictions explainable by:
 ## Project Structure
 ```
 bert_interpretability/
-├── BERT_fine-tuned.py   ← Full pipeline (train → interpret → visualize)
-├── requirements.txt     ← Python dependencies
-├── README.md            ← This file
-└── outputs/             ← Generated heatmaps and plots (auto-created)
+├── BERT_fine-tuned.ipynb   ← Full pipeline (train → interpret → visualize)
+├── requirements.txt        ← Python dependencies
+├── README.md               ← This file
+└── outputs/                ← Generated heatmaps and plots (auto-created)
 ```
 
 ---
@@ -35,7 +35,7 @@ bert_interpretability/
 pip install -r requirements.txt
 
 # 2. Run the full pipeline
-python main.py
+python BERT_fine-tuned.ipynb
 ```
 
 Requires Python 3.8+ and a GPU (optional but faster).
