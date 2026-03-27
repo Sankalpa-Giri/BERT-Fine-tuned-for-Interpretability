@@ -85,7 +85,7 @@ Requires Python 3.8+ and a GPU (optional but faster).
 | Model | Accuracy | F1 Score | Training Time | Parameters |
 |-------|----------|----------|---------------|------------|
 | Baseline BERT (no fine-tune) | ~0.50 | ~0.50 | — | 109M |
-| Fine-tuned BERT (SST-2) | ~0.91+ | ~0.91+ | ~5–10 min | 109M |
+| Fine-tuned BERT (SST-2) | ~0.90 | ~0.90 | ~36 sec | 109M |
 
 *(Exact values printed at end of run)*
 
