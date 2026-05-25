@@ -1,6 +1,5 @@
-# CSE39 NLP Assignment 2 — Part 5: Interpretability Gap
-**Roll Number:** 2305154  
-**Course:** CSE39 — Natural Language Processing  
+# BERT for Interpretability Gap
+**Course:** Natural Language Processing  
 **Instructor:** Dr. Sambit Praharaj
 
 ---
